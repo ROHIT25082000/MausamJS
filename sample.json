@@ -1,0 +1,44 @@
+// sample api result.
+{
+    "coord": {
+     "lon": 72.8479,
+     "lat": 19.0144
+    },
+    "weather": [
+     {
+      "id": 721,
+      "main": "Haze",
+      "description": "haze",
+      "icon": "50n"
+     }
+    ],
+    "base": "stations",
+    "main": {
+     "temp": 303.14,
+     "feels_like": 309.16,
+     "temp_min": 303.14,
+     "temp_max": 303.14,
+     "pressure": 1006,
+     "humidity": 74
+    },
+    "visibility": 3500,
+    "wind": {
+     "speed": 5.14,
+     "deg": 270
+    },
+    "clouds": {
+     "all": 40
+    },
+    "dt": 1654016047,
+    "sys": {
+     "type": 1,
+     "id": 9052,
+     "country": "IN",
+     "sunrise": 1653957046,
+     "sunset": 1654004524
+    },
+    "timezone": 19800,
+    "id": 1275339,
+    "name": "Mumbai",
+    "cod": 200
+}
